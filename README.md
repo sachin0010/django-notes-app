@@ -1,6 +1,7 @@
 # Simple Notes App for TWS Community
 This is a simple notes app built with React and Django.
-<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/935e7d7e-8aea-4ebc-8837-f14b4077f077" />
+<img width="1910" height="445" alt="image" src="https://github.com/user-attachments/assets/d0c0a011-3d4b-419b-a40d-2e884955d1d4" />
+
 
 
 ## Requirements
